@@ -32,7 +32,7 @@ if (buttonState == HIGH)
 
 ### تصویر مدار 
 
-![micro and circuit](/media/microprocessor_4.gif)
+![micro and circuit](/pic/microprocessor_4.jpg)
 
 ---
 
