@@ -51,7 +51,7 @@ void loop() {
 
 ### تصویر مدار ( عملکرد با کلید ) 
 
-![micro and circuit](/media/microprocessor_6.jpg)
+![micro and circuit](/pic/microprocessor_6.jpg)
 
 ---
 
